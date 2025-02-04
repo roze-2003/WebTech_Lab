@@ -1,0 +1,2349 @@
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Form Data: Array
+(
+    [student-name] => Nowroze Khan
+    [student-id] => 22-46677-3
+    [mail-id] => 22-46677-3@student.aiub.edu
+    [book] => 11
+    [borrow-date] => 2025-02-03
+    [return-date] => 2025-02-07
+    [user-token] => 555
+)
+
+Name
+ID
+mail
+books
+Book cookie
+Book Not availble
+Borrow Time calc
+No error
+Update Token
+After session
+after setting cookie
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [PHPSESSID] => g5np6p8bj1nfu4q1v1fer8k88q
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Form Data: Array
+(
+    [student-name] => Nowroze Khan
+    [student-id] => 22-46677-3
+    [mail-id] => 22-46677-3@student.aiub.edu
+    [book] => 10
+    [borrow-date] => 2025-02-03
+    [return-date] => 2025-02-17
+    [user-token] => 455
+)
+
+Name
+ID
+mail
+books
+Book cookie
+Book Not availble
+Borrow Time calc
+Errors detected: Array
+(
+    [0] => The book '10' is currently borrowed by Nowroze Khan. Please wait until it is returned.
+)
+
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+)
+Borrowed books data:
+Array
+(
+)
+Form Data: Array
+(
+    [student-name] => Nowroze Khan
+    [student-id] => 22-46677-3
+    [mail-id] => 22-46677-3@student.aiub.edu
+    [book] => 16
+    [borrow-date] => 2025-02-03
+    [return-date] => 2025-02-07
+    [user-token] => 455
+)
+
+Name
+ID
+mail
+books
+Book cookie
+Book Not availble
+Borrow Time calc
+No error
+Update Token
+After session
+after setting cookie
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
+Cookies received:
+Array
+(
+    [username-localhost-8888] => 2|1:0|10:1736130716|23:username-localhost-8888|212:eyJ1c2VybmFtZSI6ICJkMjA3NjNmNWQ4OGI0NDBhYTVjYTkyYzNmOGZkNmNmYyIsICJuYW1lIjogIkFub255bW91cyBQaGlsb3Bocm9zeW5lIiwgImRpc3BsYXlfbmFtZSI6ICJBbm9ueW1vdXMgUGhpbG9waHJvc3luZSIsICJpbml0aWFscyI6ICJBUCIsICJjb2xvciI6IG51bGx9|b3f4b95dcf48336e9e0fe5adcb915564d4489d51f124710d15b5332db80bc4c9
+    [_xsrf] => 2|1b256fdc|8a02e5a0fdf57c159a56ed805e18bfc5|1736130716
+    [6] => Nowroze Khan
+    [7] => Nowroze Khan
+    [14] => Nowroze Khan
+    [13] => Nowroze Khan
+    [10] => Nowroze Khan
+    [5] => Nowroze Khan
+    [11] => Nowroze Khan
+    [PHPSESSID] => e97gdgvmklc0u00ksjvnqeenef
+    [16] => Nowroze Khan
+)
+Borrowed books data:
+Array
+(
+)
